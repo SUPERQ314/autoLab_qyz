@@ -1,0 +1,21 @@
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\Data\bin\Debug\Data.dll
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\Data\bin\Debug\Data.pdb
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\Data\obj\Debug\Data.dll
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\Data\obj\Debug\Data.pdb
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\liub\Desktop\AutoLab1\AutoLab\Data\bin\Debug\Data.dll
+D:\liub\Desktop\AutoLab1\AutoLab\Data\bin\Debug\Data.pdb
+D:\liub\Desktop\AutoLab1\AutoLab\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\liub\Desktop\AutoLab1\AutoLab\Data\obj\Debug\Data.dll
+D:\liub\Desktop\AutoLab1\AutoLab\Data\obj\Debug\Data.pdb
+D:\liub\Desktop\AutoLab1\AutoLab\Data\obj\Debug\Data.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\Data\bin\Debug\Data.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\Data\bin\Debug\Data.pdb
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\Data\obj\Debug\Data.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\Data\obj\Debug\Data.pdb
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\Data\bin\Debug\Data.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\Data\bin\Debug\Data.pdb
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\Data\obj\Debug\Data.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\Data\obj\Debug\Data.pdb

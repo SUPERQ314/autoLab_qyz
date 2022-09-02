@@ -1,0 +1,36 @@
+﻿<Window x:Class="TrialEdit.GetTip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrialEdit"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Height="350" Width="460"
+        WindowStyle="None">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Close" Executed="CloseCommandHandler"/>
+    </Window.CommandBindings>
+    <Grid>
+        <StackPanel Margin="10">
+            <Label FontWeight="Bold" FontSize="14" Background="AntiqueWhite">Get Tip Options</Label>
+            <CheckBox Name="T1" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipA" IsChecked="True"/>
+            <CheckBox Name="T2" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipB" IsChecked="True"/>
+            <CheckBox Name="T3" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipC" IsChecked="True"/>
+            <CheckBox Name="T4" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipD" IsChecked="True"/>
+            <CheckBox Name="T5" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipE" IsChecked="True"/>
+            <CheckBox Name="T6" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipF" IsChecked="True"/>
+            <CheckBox Name="T7" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipG" IsChecked="True"/>
+            <CheckBox Name="T8" Margin="20,10,0,0" FontWeight="Medium" FontSize="12" Content="Get TipH" IsChecked="True"/>
+            <Button Width="110" Height="30" Content="保存设置" FontSize="18" Margin="40,40" Foreground="DarkBlue" Command="ApplicationCommands.Close" Click="Button_Click">
+                <Button.Template >
+                    <ControlTemplate TargetType="{x:Type Button}" >
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1" CornerRadius="7,7,7,7" Background="#230078F0">
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

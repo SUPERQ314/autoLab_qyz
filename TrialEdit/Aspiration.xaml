@@ -1,0 +1,37 @@
+﻿<Window x:Class="TrialEdit.Aspiration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:TrialEdit"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Height="240" Width="300"
+        WindowStyle="None">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Close" Executed="CloseCommandHandler"/>
+    </Window.CommandBindings>
+    <Grid>
+        <StackPanel Margin="10">
+            <Label FontWeight="Bold" FontSize="14" Background="AntiqueWhite">Aspiration (吸液)</Label>
+            <Label FontSize="12" Margin="227,15,15,-30" FontWeight="Black" Width="30" Content="µL" RenderTransformOrigin="1.745,1.945" />
+            <Label FontSize="12" Margin="5,5,109,5" FontWeight="Black" Content="请输入每支移液枪的移液量："/>
+            <TextBox TextChanged="Input" PreviewTextInput="limitnumber" x:Name="num" VerticalContentAlignment="Center" InputMethod.IsInputMethodEnabled="False" Margin="180,-25,50,10"/>
+            <Label FontSize="12" Margin="5,5,114,5" FontWeight="Black" Content="请设置移液枪的间距："/>
+            <xctk:IntegerUpDown Value="3" Width="50" Margin="131,-25,81,10" Increment="3" ToolTip="整数Int类型"/>
+            <!-- <xctk:IntegerUpDown Value="3" Width="60" Margin="131,-25,81,10" Increment="3" ToolTip="整数Int类型"/>
+            <xctk:IntegerUpDown Value="3" Margin="131,-25,87,10" Increment="3" ToolTip="整数Int类型"/>-->
+            <Label FontSize="12" Content="mm" Width="50" FontWeight="Black" Margin="189,-35,23,10"/>
+        </StackPanel>
+        <Button Width="80" Height="20" Content="保存设置" FontSize="14" Margin="95,170,107,20" Foreground="DarkBlue" Command="ApplicationCommands.Close" RenderTransformOrigin="0.307,3.044">
+            <Button.Template >
+                <ControlTemplate TargetType="{x:Type Button}" >
+                    <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1" CornerRadius="7,7,7,7" Background="#230078F0">
+                        <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>

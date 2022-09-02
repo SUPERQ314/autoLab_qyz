@@ -1,0 +1,47 @@
+﻿<Window x:Class="TrialEdit.Slot12"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Name="Window"
+        Title="Set properties of tank12" Height="450" Width="600">
+    <Canvas>
+        <TextBlock FontSize="18" Margin="100,48">Type</TextBlock>
+        <TextBlock FontSize="18" Margin="360,48">mL</TextBlock>
+        <Button Content="Add" Background="LightSkyBlue" BorderBrush="AliceBlue" Foreground="DarkBlue"
+		FontWeight="Bold" FontSize="25" Margin="150,330" Name="add" Width="100" Click="Add_Item">
+        </Button>
+        <Button Content="Delete" Background="LightGray" BorderBrush="AliceBlue" Foreground="DarkBlue"
+		FontWeight="Bold" FontSize="25" Margin="350,330" Name="delete" Width="100" Click="Delete_Item">
+        </Button>
+        <ComboBox Name="type" Width="60" MaxDropDownHeight="100" ScrollViewer.VerticalScrollBarVisibility="Auto" Canvas.Left="150" Canvas.Top="50">
+            <ComboBoxItem IsSelected="True" Height="17" >None</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17" Content='A'/>
+            <ComboBoxItem IsSelected="False" Height="17">B</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">C</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">D</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">E</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">F</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">G</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">H</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">I</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">J</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">K</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">L</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">M</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">N</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">O</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">P</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">Q</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">R</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">S</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">T</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">W</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">U</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">V</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">X</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">Y</ComboBoxItem>
+            <ComboBoxItem IsSelected="False" Height="17">Z</ComboBoxItem>
+        </ComboBox>
+        <TextBox PreviewTextInput="limitnumber" x:Name="volume" Margin="250,50" Width="100" Height="20" VerticalContentAlignment="Center" InputMethod.IsInputMethodEnabled="False" Text="0" TextChanged="volume_TextChanged"></TextBox>
+        <Label Name="Settings" FontSize="15" FontWeight="Medium" Margin="80,70"></Label>
+    </Canvas>
+</Window>

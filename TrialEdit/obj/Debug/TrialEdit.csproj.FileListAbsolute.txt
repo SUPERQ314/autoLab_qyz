@@ -1,0 +1,208 @@
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe.config
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\TrialEdit.pdb
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\MainWindow.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\StationEdit.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\MainWindow.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\StationEdit.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\App.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.cache
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit.g.resources
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit.Properties.Resources.resources
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit.exe
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit.pdb
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Slot12.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Slot12.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.lref
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\EditFlow.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\EditFlow.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Aspiration.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\GetTip.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Grip.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Mix.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Release.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\Xceed.Wpf.Toolkit.dll
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Aspiration.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\GetTip.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Grip.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Mix.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Release.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\Data.dll
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\Data.pdb
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Move.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Move.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\TrialEdit.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Dispense1.g.cs
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\obj\Debug\Dispense1.baml
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\FlowDesign.dll
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\FlowDesign.pdb
+\\mac\home\documents\visual studio 2013\Projects\AutoLab\TrialEdit\bin\Debug\Newtonsoft.Json.dll
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe.config
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\TrialEdit.pdb
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\Data.dll
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\FlowDesign.dll
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\Data.pdb
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\bin\Debug\FlowDesign.pdb
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\EditFlow.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\MainWindow.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Slot12.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Aspiration.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Dispense1.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\EditFlow.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\GetTip.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Grip.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\MainWindow.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Mix.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Move.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Release.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Slot12.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\StationEdit.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\App.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.cache
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.lref
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Aspiration.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Dispense1.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\GetTip.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Grip.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Mix.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Move.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\Release.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\StationEdit.baml
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.g.resources
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.Properties.Resources.resources
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.GenerateResource.cache
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.CoreCompileInputs.cache
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.CopyComplete
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.exe
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.pdb
+D:\liub\Desktop\AutoLab1\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe.config
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.pdb
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Data.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\FlowDesign.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Xceed.Wpf.Toolkit.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Data.pdb
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\FlowDesign.pdb
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\EditFlow.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Slot12.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Aspiration.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Dispense1.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\EditFlow.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\GetTip.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Grip.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Mix.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Move.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Release.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Slot12.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\StationEdit.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.cache
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.lref
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Aspiration.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Dispense1.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\GetTip.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Grip.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Mix.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Move.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Release.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\StationEdit.baml
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.g.resources
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.Properties.Resources.resources
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.exe
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.pdb
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Filestore.dll
+\\Mac\Home\Downloads\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Filestore.pdb
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe.config
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.pdb
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Data.dll
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Filestore.dll
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\FlowDesign.dll
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Data.pdb
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Filestore.pdb
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\FlowDesign.pdb
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csprojAssemblyReference.cache
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\EditFlow.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\MainWindow.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Slot12.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Aspiration.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Dispense1.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\EditFlow.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\GetTip.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Grip.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\MainWindow.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Mix.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Move.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Release.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Slot12.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\StationEdit.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\App.g.cs
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.cache
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.lref
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Aspiration.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Dispense1.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\GetTip.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Grip.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Mix.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Move.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Release.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\StationEdit.baml
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.g.resources
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.Properties.Resources.resources
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.GenerateResource.cache
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.CoreCompileInputs.cache
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.CopyComplete
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.exe
+D:\liub\Desktop\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.pdb
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe.config
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.exe
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\TrialEdit.pdb
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Data.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Filestore.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\FlowDesign.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Xceed.Wpf.Toolkit.dll
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Data.pdb
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\Filestore.pdb
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\bin\Debug\FlowDesign.pdb
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\EditFlow.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Slot12.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Aspiration.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Dispense1.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\EditFlow.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\GetTip.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Grip.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Mix.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Move.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Release.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Slot12.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\StationEdit.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\App.g.cs
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.cache
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit_MarkupCompile.lref
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Aspiration.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Dispense1.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\GetTip.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Grip.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Mix.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Move.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\Release.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\StationEdit.baml
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.g.resources
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.Properties.Resources.resources
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.exe
+\\Mac\Home\Documents\AutoLab1\AutoLab1(1)\AutoLab\TrialEdit\obj\Debug\TrialEdit.pdb
